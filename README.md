@@ -5,10 +5,7 @@ Data Structures and Algorithms lab repository
 ## Lab Structure
 
 ### Lab02
-
-⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️
-
-Pull Requests name must follow the following pattern: Lab## \<nume\> \<prenume\>
+wing pattern: Lab## \<nume\> \<prenume\>
 
 Ex1: Lab02 Salau Bogdan
 
