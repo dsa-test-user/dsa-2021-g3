@@ -1,0 +1,11 @@
+{
+  "LABEL": {
+    "name": "title needs formatting",
+    "color": "EEEEEE"
+  },
+  "CHECKS": {
+    "prefixes": ["Lab"],
+    "regexp": "(Lab)\\d\\d [a-z ,.'-]+",
+    "ignoreLabels" : ["dont-check-PRs-with-this-label", "meta"]
+  }
+}
