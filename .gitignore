@@ -1,25 +1,4 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
 
-### CodeBlocks ###
-# specific to CodeBlocks IDE
-*.layout
-*.depend
-# generated directories
-bin/
-obj/
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
 *.lo
 
 # Shared objects (inc. Windows DLLs)
