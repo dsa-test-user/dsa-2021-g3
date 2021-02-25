@@ -12,20 +12,7 @@ Pull Requests name must follow the following pattern: Lab## \<nume\> \<prenume\>
 
 Ex1: Lab02 Salau Bogdan
 
-Ex2: Lab02 Salau Bogdan Extra
-
-Deadline until 28.02.2021, 20:00 for making a PR on GitHub with what you've worked.
-Deadline until 4.03.2021, 8:00 for making a PR on GitHub with the extra assignment if you finished the basic mandatory problems.
-
-## Grading
-
-There will be 2 laboratory tests, one about Data Structures and one about Algorithms.
-
-Each test will count as 35% from the final LAB_GRADE.
-The remaning 30% will be calculated based on your input during the semester (Pull Requests with what you've worked and ACTIVITY_POINTS based on how active you are during lab sessions).
-
-LAB_GRADE is 35% out of the final grade.
-
+Ex2: Lab02 Salau
 Each lab will have proposed problems which you will have to solve and upload it on git.
 
 * There will be "extra credit" assignments that can only be completed by those who already have completed the "normal" assignments. These will be even more thoroughly inspected and evaluated.
