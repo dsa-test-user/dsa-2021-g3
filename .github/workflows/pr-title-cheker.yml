@@ -1,0 +1,17 @@
+name: "PR Title Checker"
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - synchronize
+      - labeled
+      - unlabeled
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: Slashgear/action-check-pr-title@1.0.0
+      with:
+        regex: "(Lab)\\d\\d [a-z ,.'-]+" # Regex the title should match.
